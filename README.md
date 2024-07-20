@@ -3,6 +3,7 @@
 Requirements
 
 Part 1: Access the New York Times API (35 points)
+
 query_url is correctly constructed (2 points).
 An empty list reviews_list is created (1 point).
 A for loop is created to loop through 20 times (3 points).
